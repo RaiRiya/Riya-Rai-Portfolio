@@ -1,10 +1,5 @@
 
 # DSFolio
-
-<center>
-    <img src="/public/cover.png" alt="DSFolio" />
-</center>
-
 <center>
 
 [https://dsfolio-v1.vercel.app/](https://dsbalico.vercel.app/)
